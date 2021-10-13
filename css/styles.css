@@ -9,3 +9,20 @@
   font-size: 50px;
   font-style: sans-serif;
 }
+
+body{
+  background-image: url(https://thescranline.com/wp-content/uploads/2021/03/Vanilla-Cupcakes.jpg);
+}
+
+p{
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  list-style-position: inside;
+}
+.center{
+  text-align: center;
+}
+
